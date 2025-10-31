@@ -1,5 +1,7 @@
 # digitalromance78-pac-extractor
 
+A utility for working with `.pac` archives from Dekstop Pets by [digitalromance78](https://digitalromance.wordpress.com/)
+
 ### View
 
 ```
