@@ -1,0 +1,88 @@
+{
+  "maybe_ttp_type": 2,
+  "frame_count": 8,
+  "window_width": 368,
+  "window_height": 384,
+  "frames": [
+    {
+      "sprite_name": "基本１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 168,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "基本２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 168,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "基本１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 168,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "基本２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 168,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "基本１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 168,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "基本２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 168,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "基本１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 1000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 168,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "基本３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 168,
+      "y_offset": 96
+    }
+  ]
+}

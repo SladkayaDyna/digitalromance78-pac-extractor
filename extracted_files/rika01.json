@@ -1,0 +1,29 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 2,
+  "window_width": 368,
+  "window_height": 384,
+  "frames": [
+    {
+      "sprite_name": "昼寝",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 1000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 120,
+      "y_offset": 240
+    },
+    {
+      "sprite_name": "昼寝",
+      "se_name": "Rika_27",
+      "textbox_name": "",
+      "delay_ms": 2000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 120,
+      "y_offset": 240
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 1
+}

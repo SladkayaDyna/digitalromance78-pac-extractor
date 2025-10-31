@@ -1,0 +1,49 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 4,
+  "window_width": 368,
+  "window_height": 384,
+  "frames": [
+    {
+      "sprite_name": "避け２",
+      "se_name": "Rika_18",
+      "textbox_name": "fd_mune",
+      "delay_ms": 250,
+      "x_offset_textbox": 24,
+      "y_offset_textbox": 8,
+      "x_offset": 128,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "避け３",
+      "se_name": "",
+      "textbox_name": "fd_mune",
+      "delay_ms": 20,
+      "x_offset_textbox": 24,
+      "y_offset_textbox": 8,
+      "x_offset": 128,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "避け５",
+      "se_name": "",
+      "textbox_name": "fd_mune",
+      "delay_ms": 100,
+      "x_offset_textbox": 24,
+      "y_offset_textbox": 8,
+      "x_offset": 128,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "避け１",
+      "se_name": "",
+      "textbox_name": "fd_mune",
+      "delay_ms": 2000,
+      "x_offset_textbox": 24,
+      "y_offset_textbox": 8,
+      "x_offset": 128,
+      "y_offset": 104
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 0
+}

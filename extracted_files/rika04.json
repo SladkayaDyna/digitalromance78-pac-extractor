@@ -1,0 +1,109 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 10,
+  "window_width": 368,
+  "window_height": 384,
+  "frames": [
+    {
+      "sprite_name": "アイス１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 1000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス３",
+      "se_name": "Rika_21",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス４",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 20,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "アイス５",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 500,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 160,
+      "y_offset": 96
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 1
+}

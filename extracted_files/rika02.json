@@ -1,0 +1,109 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 10,
+  "window_width": 368,
+  "window_height": 384,
+  "frames": [
+    {
+      "sprite_name": "ワイン１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン２",
+      "se_name": "Rika_20_1",
+      "textbox_name": "",
+      "delay_ms": 2000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン２",
+      "se_name": "Rika_20_1",
+      "textbox_name": "",
+      "delay_ms": 2000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン３",
+      "se_name": "Rika_20_2",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン４",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン５",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン６",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン７",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ワイン８",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 2000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 152,
+      "y_offset": 192
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 1
+}

@@ -1,0 +1,88 @@
+{
+  "maybe_ttp_type": 2,
+  "frame_count": 8,
+  "window_width": 368,
+  "window_height": 384,
+  "frames": [
+    {
+      "sprite_name": "流し１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 1000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "流し２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "流し３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "流し４",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "流し３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "流し４",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "流し３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "流し５",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 96
+    }
+  ]
+}

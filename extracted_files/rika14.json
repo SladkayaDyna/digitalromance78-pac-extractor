@@ -1,0 +1,29 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 2,
+  "window_width": 368,
+  "window_height": 384,
+  "frames": [
+    {
+      "sprite_name": "時間１",
+      "se_name": "Rika_07",
+      "textbox_name": "fd_jikan_4",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 24,
+      "x_offset": 128,
+      "y_offset": 120
+    },
+    {
+      "sprite_name": "時間２",
+      "se_name": "",
+      "textbox_name": "fd_jikan_4",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 24,
+      "x_offset": 128,
+      "y_offset": 120
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 0
+}
