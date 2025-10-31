@@ -2,7 +2,7 @@
 
 A utility for working with `.pac` archives from Dekstop Pets by [digitalromance78](https://digitalromance.wordpress.com/)
 
-### View
+## View
 
 ```
 python pac_tool.py list archive.pac
