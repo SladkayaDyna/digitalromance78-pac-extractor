@@ -16,9 +16,14 @@ python pac_tool.py extract archive.pac output_folder
 python pac_tool.py x archive.pac output_folder
 ```
 
-## Archive
+## Pack
 
 ```
 python pac_tool.py pack new_archive.pac source_folder
 python pac_tool.py p new_archive.pac source_folder
 ```
+
+## Features
+- `.pac` files packing/extracting
+- `.bmz` files compression/decompression to bmp (performed automatically while working with archive)
+- `.ttp` files (animation) import/export to json (also performed automatically)
